@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagSelectorProject", "TagSelectorProject.csproj", "{B55AF76A-36B4-E7D5-6C9B-0092C53C3559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagSelectorProject.Editor", "TagSelectorProject.Editor.csproj", "{307F3719-54EF-1FDC-A824-E53178006206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55AF76A-36B4-E7D5-6C9B-0092C53C3559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55AF76A-36B4-E7D5-6C9B-0092C53C3559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55AF76A-36B4-E7D5-6C9B-0092C53C3559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55AF76A-36B4-E7D5-6C9B-0092C53C3559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307F3719-54EF-1FDC-A824-E53178006206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307F3719-54EF-1FDC-A824-E53178006206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307F3719-54EF-1FDC-A824-E53178006206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307F3719-54EF-1FDC-A824-E53178006206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
